@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **BTech at PICT | IBM Cybersecurity Analyst | IBM Full Stack Software Developer**
 
-- 💻 My tech stack includes **React, JavaScript, Python, Node.js, MongoDB, Express.js, Django, Tailwind CSS, HTML, Postman, AWS, Linux, Blockchain, Wireshark, Metasploit**
+- 💻 **Tech Stack:** React, JavaScript, Python, Node.js, MongoDB, Express.js, Django, Tailwind CSS, HTML, Postman, Cloud Platforms, Linux, Blockchain, Wireshark
 
 - 👯 I’m looking to collaborate on **Open-Source Security Projects**
 
@@ -39,11 +39,10 @@
   <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express.js" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="cloud platform" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969062.png" alt="blockchain" width="40" height="40"/></a>
   <a href="#"><img src="https://www.logo.wine/a/logo/Wireshark/Wireshark-Logo.wine.svg" alt="wireshark" width="60" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Metasploit_logo.png/1200px-Metasploit_logo.png" alt="metasploit" width="40" height="40"/></a>
 </p>
 
 ---
