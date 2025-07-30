@@ -1,4 +1,4 @@
-![logo](https://github.com/ajinkya22-dev/ajinkya22-dev/blob/main/gradient-dark-blue-futuristic-digital-grid-background.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Ajinkya Pathak</h1>
 <h3 align="center">Passionate Cybersecurity Analyst focused on defensive security, threat analysis, and system hardening. Skilled Full Stack Developer with hands-on experience in React, JavaScript, Python, and Linux environments. Dedicated to building secure, scalable web applications and contributing to open-source security projects.</h3>
