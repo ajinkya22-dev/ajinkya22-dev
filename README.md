@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya22-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya22-dev" /> </p>
 
-- 🌱 I’m currently learning **BTech at PICT | IBM Cybersecurity Analyst | IBM Full Stack Software Developer**
+-  I’m currently building a solid foundation in Information Technology at PICT, specializing in full-stack software development and cybersecurity analysis.**
 
-- 💻 **Tech Stack:** React, JavaScript, Python, Node.js, MongoDB, Express.js, Django, Tailwind CSS, HTML, Postman, Cloud Platforms, Linux, Blockchain, Wireshark
+-  **Tech Stack:** React, JavaScript, Python, Node.js, MongoDB, Express.js, Django, Tailwind CSS, HTML, Postman, Cloud Platforms, Linux, Blockchain, Wireshark
 
-- 👯 I’m looking to collaborate on **Open-Source Security Projects**
+-  I’m looking to collaborate on **Open-Source Security Projects**
 
-- 📝 I regularly write articles on [https://techverse224.wordpress.com/](https://techverse224.wordpress.com/)
+-  I regularly write articles on [https://techverse224.wordpress.com/](https://techverse224.wordpress.com/)
 
 ---
 
