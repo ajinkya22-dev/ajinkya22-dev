@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya22-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya22-dev" /> </p>
 
--  I’m currently building a solid foundation in Information Technology at PICT, specializing in full-stack software development and cybersecurity analysis.**
+-  I’m currently building a solid foundation in Information Technology at PICT, specializing in full-stack software development and cybersecurity analysis.
 
 -  **Tech Stack:** React, JavaScript, Python, Node.js, MongoDB, Express.js, Django, Tailwind CSS, HTML, Postman, Cloud Platforms, Linux, Blockchain, Wireshark
 
